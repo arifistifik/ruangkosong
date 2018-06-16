@@ -45,9 +45,9 @@ Cara Menjalankan Bot Kembali :
 - `cd token`
 - `npm start`
 
-Tutorial Video :
+ada pertanyaan :
 ------
-- `https://youtu.be/wdplUqUtX7Q`
+-add line id : arifistifik
 
 Thx To :
 ------
